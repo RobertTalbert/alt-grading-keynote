@@ -39,7 +39,7 @@ That's what calculus is, but MTH 201 is about more than just calculus. In MTH 20
 
 This is a significant change from the way you may have experienced math in high school, and you will be challenged no matter what your background. But you will also be supported in many ways, and I personally am on your side and want you to be successful. 
 
-### The ``flipped'' format of MTH 201
+### The "flipped" format of MTH 201
 
 In almost every mathematics course at GVSU and especially in MTH 201, we operate on the principle that **you will learn best when you are actively working on a task rather than passively listening**. Both passive listening and active work have their places in the learning process, but since active work is generally harder and requires more assistance than passive listening, we will be spending the bulk of class time together working actively on problems, where you can work at your own pace and ask questions freely with unfettered access to the professor.
 
@@ -106,15 +106,17 @@ Note that entrance quizzes are usually given in the first five minutes of class.
 
 Your grade for the course will be determined by the items of work described above using the following weights: 
 
-<tr>
-<td>Item</td><td>Weight</td></tr>
-<tr><td>Guided Practice</td><td> 2% </td></tr>
-<tr><td>Entrance quizzes</td><td>2%</td></tr>
-<tr><td>Online homework</td><td>6%</td></tr>
-<tr><td>Labs</td><td>10%</td></tr>
-<tr><td>Portfolio Problems</td><td>15%</td></tr>
-<tr><td>Assessments</td><td>45% (15% each)</td></tr>
-<tr><td>Final Exam</td><td>20%</td></tr>
+| Item | Weight | 
+| :---:  | :---: | 
+| Guided Practice | 2% | 
+| Entrance Quizzes | 2% | 
+| Online Homework | 6% | 
+| Labs | 10% | 
+| Portfolio Problems | 15% | 
+| Assessments | 45% (15% each) |
+| Final Exam | 20% | 
+
+
 
 Your semester grade will be calculated using the percentages you choose and applying a letter grade using the standard grade cutoffs: 93-100% A, 90-92% A-, 87-89% B+, 83-87% B, 80-82% B-, 77-79% C+, 73-76% C, 70-72% C-, 67-69% D+, 60-66% D, and 0-59% F. 
 
@@ -143,7 +145,7 @@ It’s important to know that you can ask questions in this course at any time t
 
 The important thing is that you ask the questions that you have.
 
-###Collaboration and academic honesty
+### Collaboration and academic honesty
 Academically honest work by a student is work that authentically reflects the student’s understandings, however incomplete, of the work being done. **All the major aspects of the work handed in have been done by the student, without collaboration with others** (unless otherwise authorized). It is your responsibility to make sure that your work does not go past this limitation on work with others. 
 
 In particular, no collaboration at all is allowed on Assessments, Portfolio Problems, or the Final Exam. The only kind of help you may seek out on Portfolio problems is ungraded feedback from the professor through preliminary drafts; see the Portfolio Problems page for details. 
@@ -151,12 +153,12 @@ In particular, no collaboration at all is allowed on Assessments, Portfolio Prob
 ###Late submissions of work
 Deadlines on graded items will be enforced fairly. Late submissions of work will not be accepted unless you have received prior approval. 
 
-###Class etiquette
+### Class etiquette
 Students are expected to treat each other with respect. Students are also expected to promote a healthy learning environment, as well as minimize distracting behaviors. Moreover, every attempt should be made to arrive to class on time. If you must arrive late or leave early, please do not disrupt class.
 
 Please turn off the ringer on your cell phone. I do not have a strict policy on the use of laptops, tablets, and cell phones. You are expected to be paying attention and engaging in class discussions. If your cell phone, etc. is interfering with your ability (or that of another student) to do this, then put it away, or I will ask you to put it away.
 
-###Important dates
+### Important dates
 
 * August 30: 100% tuition drop deadline and last day to add, register or pay
 * September 2--3: Labor Day recess
@@ -166,8 +168,8 @@ Please turn off the ringer on your cell phone. I do not have a strict policy on 
 * November 27--29: Thanksgiving recess
 * December 6: Last day of classes
 
-###Changes to the syllabus
+### Changes to the syllabus
 This syllabus is subject to amendments and additions if circumstances warrant. All changes will be communicated appropriately to the class. 
 
-###Information for students with disabilities 
+### Information for students with disabilities 
 Grand Valley State University (GVSU) is committed to providing access to programs and facilities for all students, faculty, and staff. GVSU promotes the inclusion of individuals with disabilities as part of our commitment to creating a diverse, intercultural community. It is the policy of GVSU to comply with the Americans with Disabilities Act as amended by the ADA Amendment Act (2008), Section 504 of the Rehabilitation Act of 1973, and other applicable federal and state laws that pro- hibit discrimination on the basis of disability. GVSU will provide reasonable accommodations to qualified individuals with disabilities upon request. If there is any student in this class who has special needs because of learning, physical, or other disability, please contact me (Prof. Talbert) or the Disability Support Services office (200 STU, 616-331-2490). Furthermore, if you have a disabil- ity and think you will need assistance evacuating this classroom and/or building in an emergency situation, please make me aware so GVSU can develop a plan to assist you.
